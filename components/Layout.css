@@ -1,0 +1,24 @@
+/* components/Layout.js */
+div {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 400px;
+  }
+  
+  header {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+  }
+  
